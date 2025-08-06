@@ -9,7 +9,7 @@ I'm a backend developer passionate about building efficient and scalable APIs. C
 
 # 🛠️ Tech Stack
 - **Languages & Frameworks**: JavaScript (ES6+), Node.js, Express
-- **Databases**: MongoDB
+- **Databases**: MongoDB , mysql
 - **Version Control**: Git & GitHub
 
 Thanks for stopping by! 🚀
